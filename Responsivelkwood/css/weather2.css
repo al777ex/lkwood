@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+
+}
+
+h5{
+    word-spacing: 0px;
+    font-family: serif;
+    font-weight: bolder;
+    background: rgba(156, 156, 186, .7);
+    text-align: center;
+    border-style: outset;
+    font-size: larger;
+}
+
+
+#weatherAll {
+    position: absolute;
+    display: inline-block;
+    background-size: contain;
+    width: 140px;
+    height: 300px;
+    margin-top: 10px;
+    margin-right: 35px;
+    margin-left: -65px;
+    background-image: url("http://geography.name/wp-content/uploads/2016/03/Weather-1.gif");
+}
+
+#Advertise {
+    margin-left: 5px;
+    border-style: solid;
+    border-width: thin;
+    text-align: center;
+    color: black;
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+#dataAll{
+    background: rgba(167, 188, 228, 0.3)
+}
+
+#data {
+    font-weight: 800;
+    font-size: 15px;
+    text-decoration: underline;
+    background: rgba(157, 198, 234, 0.5);
+    text-align: center;
+}
+
+#data1{
+    margin-top: -12px;
+    text-indent: 52px;
+    font-size: x-small;
+    color: red;
+    font-weight: 900;
+}
+#data2{
+    font-size: medium;
+    font-weight: 700;
+    font-family: serif;
+}
+
+#data3 {
+    font-size: 49px;
+    color: tomato;
+    font-weight: 600;
+}
+
+.adbox {
+    margin-top: 210px;
+    height: 150px;
+    width: 200px;
+    margin-left: -30px;
+    border-style: solid;
+    border-width: thin; 
+}
