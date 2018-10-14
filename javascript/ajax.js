@@ -11,7 +11,7 @@
 var lakewood = "44107";
 
 
-//var queryURL = "http://dataservice.accuweather.com/forecasts/v1/daily/1day/" + lakewood + "?apikey=COhiSXg4Bvdt3VlA4u5Mz3jhSlzWenZb&details=false";
+var queryURL = "http://dataservice.accuweather.com/forecasts/v1/daily/1day/" + lakewood + "?apikey=COhiSXg4Bvdt3VlA4u5Mz3jhSlzWenZb&details=false";
 
 
 
@@ -43,8 +43,3 @@ var lakewood = "44107";
 })
 
 
-/*$("#myBtn").click(function () {
-    document.body.scrollTop = 0; 
-    document.documentElement.scrollTop = 0;
-
-)}*/
